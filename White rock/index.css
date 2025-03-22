@@ -1,0 +1,173 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.page1{
+    height: 100vh;
+    width: 100%;
+}
+.pej{
+    height: 100%;
+    width: 100%;
+    background-image: url(/white\ rock\ image.jpg);
+    background-size: cover;
+}
+.bar{
+    height: 15%;
+    width: 100%;
+    /* background-color: white; */
+    display: flex;
+    /* justify-content: center;
+    align-items: center;  */
+    /* background-color: red; */
+}
+.bar h5{
+    color: white;
+}
+.left{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    /* background-color: royalblue; */
+}
+.whiterock{
+    height: 100%;
+    width: 40%;
+    background-color:wheat;
+    margin-left: 30%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.whiterock h2{
+        font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+}
+      
+
+.right{
+    height: 100%;
+    width: 50%;
+    text-align: right;
+    display: flex;
+    justify-content: space-evenly;
+}
+.right h5{
+    margin-top: 30px;
+    font-size: large;
+    font-weight: 300;
+}
+.text{
+    height: 20%;
+    width: 40%;
+    /* margin-top: 20%; */
+    margin-left: 5%;
+}
+.text h3{
+color: white;
+font-family: "Playwrite CU", cursive;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+}
+.content{
+    height: 85%;
+    width: 100%;
+   display: flex;
+  
+}
+.paragraph{
+    height: 100%;
+    width: 50%;
+   /* background-color: darkmagenta; */
+   text-align: center;
+   /* display: flex; */
+   justify-content: center;
+   align-items: center;
+}
+.menu{
+    height: 100%;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.582);
+    border-radius: 40px;
+  text-align: center;
+  /* margin-top: 40px; */
+}
+.paragraph h3{
+    margin-top: 60px;
+    color: palevioletred;
+}
+.paragraph p{
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 80px;
+    color: rgb(227, 85, 132);
+     font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+  
+}
+.menu button{
+    color: palevioletred;
+    border-radius: 20px;
+    height: 20%;
+    width: 30%;
+    font-size: large;
+    font-weight: 600;
+    /* border: none; */
+
+}
+.menu p{
+    margin-top: 160px;
+}
+.menu button:hover{
+    background-color: palevioletred;
+    color: white;
+}
+.menu button{
+    margin-top: 40px;
+}
+.page2{
+    height: 40vh;
+    width: 100%;
+    background-color: rgb(53, 52, 52);
+}
+.too{
+    height: 100%;
+    width: 100%;
+
+}
+.dark h3{
+    color: white;
+}
+.dark p{
+    color: rgb(143, 135, 135);
+}
+
+
+.darker{
+    height: 20%;
+    width: 100%;
+    background-color: rgb(19, 17, 17);
+    /* background-color: red; */  
+}
+.darker p{
+    color: white;
+    font-size:small;
+}
+.contact{
+    text-align: center;
+background-color: antiquewhite;
+color: black;
+}
+.html {
+    scroll-behavior: smooth;
+  }
+
+
